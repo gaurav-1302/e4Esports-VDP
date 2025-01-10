@@ -1,12 +1,12 @@
-# e4sports Fantasy App and Website - Vulnerability Disclosure Program (VDP)
+# e4Esports Fantasy App and Website - Vulnerability Disclosure Program (VDP)
 
-Welcome to the e4sports Vulnerability Disclosure Program (VDP). We appreciate your interest in helping us ensure the security and integrity of our app and website. Your efforts to disclose vulnerabilities responsibly help us maintain a secure environment for our users.
+Welcome to the e4Esports Vulnerability Disclosure Program (VDP). We appreciate your interest in helping us ensure the security and integrity of our app and website. Your efforts to disclose vulnerabilities responsibly help us maintain a secure environment for our users.
 
 ## Scope
 
 The following assets are within the scope of this VDP:
-- **Website**: [e4sports Landing Page](https://e4sports.atirun.com)
-- **Mobile App**: e4sports Fantasy App (available on iOS and Android platforms)
+- **Website**: [e4Esports Landing Page](https://e4sports.atirun.com)
+- **Mobile App**: e4Esports Fantasy App (available on iOS and Android platforms)
 
 ### In-Scope Vulnerabilities
 We are looking for vulnerabilities that could impact the security, privacy, or functionality of our app and website. Examples include:
